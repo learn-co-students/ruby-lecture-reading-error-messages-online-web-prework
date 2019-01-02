@@ -1,3 +1,3 @@
-"hello world"
+ "a_name_error"
 
-hello_world
+a_name_error=23
