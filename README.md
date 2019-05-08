@@ -106,7 +106,7 @@ STOP. If you haven't watched the above video, you are making life much harder fo
 Did you watch it? Okay, great. Let's proceed. The point of this lab is to get you comfortable reading error messages and fixing simple programs.
 
 1. Open this lab.
-
+Close
 2. Run `learn` from the root of the lab's directory. You should see a lot of red — this is okay! Tests have failed, and now we can fix them.
 
   * Read the errors. Scroll through the entire output to get a sense of what the failures are trying to tell you. What does ``expected no Exception, got #<NameError: undefined local variable or method `hello_world' for main:Object> with backtrace`` mean? How can we fix it?
