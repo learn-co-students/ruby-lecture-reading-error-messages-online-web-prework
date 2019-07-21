@@ -105,20 +105,7 @@ STOP. If you haven't watched the above video, you are making life much harder fo
 
 Did you watch it? Okay, great. Let's proceed. The point of this lab is to get you comfortable reading error messages and fixing simple programs.
 
-1. Open this lab.
-
-2. Run `learn` from the root of the lab's directory. You should see a lot of red — this is okay! Tests have failed, and now we can fix them.
-
-  * Read the errors. Scroll through the entire output to get a sense of what the failures are trying to tell you. What does ``expected no Exception, got #<NameError: undefined local variable or method `hello_world' for main:Object> with backtrace`` mean? How can we fix it?
-
-  * Each error prints out a **stack trace**, which points to where the code failed and attempts to follow it _up the stack_ — that is, through the bits of code that ran leading up to the failure. You can use these stack traces to pinpoint which line(s) of code need your attention.
-
-  * These stack traces can also point you to which files you should run to get a better sense of the errors. Which leads us to step 3:
-  
-3. Fix the errors in each of the files in `lib/`. Then confirm the fix by running `learn` again.
-
-4. Once your code is passing with the `learn` command, submit the lab with `learn submit`
-
+`
 Feel proud. Being able to read an error message and fix it, no matter how basic, is a huge step in being a programmer. Get comfortable with broken code. It's totally normal in programming.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-lecture-reading-error-messages' title='Intro to Reading Ruby Error Messages'>Intro to Reading Ruby Error Messages</a> on Learn.co and start learning to code for free.</p>
