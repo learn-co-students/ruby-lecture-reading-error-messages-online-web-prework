@@ -8,6 +8,8 @@ describe "Not having any errors and being all green" do
     end
   end
 
+  
+
   context 'SyntaxError' do
     it 'raises a SyntaxError for nonsensical code' do
       expect{
