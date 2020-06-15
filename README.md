@@ -23,6 +23,7 @@ Get started by opening this lab by pressing the Open button on the toolbar so yo
 
 Error messages have 3 parts:
 
+
 ```
 lib/a_name_error.rb:3:in `<main>': undefined local variable or method `hello_world' for main:Object (NameError)
 ```
